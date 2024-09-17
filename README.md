@@ -1,4 +1,4 @@
-# Lean Type Operations and Functions Implementation
+# Lean3 Type Operations and Functions Implementation
 
 This Lean project contains implementations of various type operations and functions, including:
 
